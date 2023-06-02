@@ -1,0 +1,47 @@
+ul.navbar {
+  list-style-type: none;
+  font-family: 'Courier New', Courier, monospace;
+  overflow: hidden;
+  background-color: white;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 4px double black;
+  border-right: 4px double black;
+}
+
+ul.navbar li {
+  float: left;
+}
+
+ul.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.header {
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 5rem;
+  text-align: center;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 4px double black;
+  border-right: 4px double black;
+}
+
+.info {
+  margin-top: 2rem;
+  padding: 2rem;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 4px double black;
+  border-right: 4px double black;
+  margin-left: 20%;
+  margin-right: 20%;
+}
